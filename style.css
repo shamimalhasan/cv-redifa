@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;0,900;1,100;1,500;1,700;1,900&display=swap');
+*{
+
+    margin:0;
+    padding:0;
+}
+
+
+body{
+
+    background-color:#eee;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+max-width:1000px;
+background-color: #e4f9f5;
+margin:0 auto;
+padding:20px;
+}
+footer{
+    max-width:1040px;
+   
+    margin:0 auto;
+
+}
+h1,h2,h3,h4,h5,h6,a{
+
+    color: #11999e;
+}
+p{
+
+    color:black;
+    font-size:14px;
+
+}
+
+.profile-image img{
+
+width:140px;
+height:120px;
+border: 3px solid #fff;
+border-radius: 50%;
+float: left;
+}
+
+.profile-content{
+float: left;
+padding:20px;
+}
+.header-contact{
+
+    float: right;
+    padding:30px;
+}
+.header-contact a{
+
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+.header-contact a:hover{
+
+color:green;
+
+}
+
+.div-clear{
+    clear:both;
+}
+
+hr{
+    border:3px solid black;
+    width:100%;
+    margin:20px 0;
+    border-bottom:none;
+    
+}
+.parsoanl-title{
+    float: left;
+    width:30%;
+}
+.parsonal-content{
+    float:left;
+    width:70%;
+  
+}
+.work-title{
+
+    width:30%;
+    float:left;
+}
+.work-content{
+
+    width:70%;
+    float: left;
+}
+.education{
+    width:30%;
+    float:left;
+}
+.work-list1{
+   width:45%;
+   float: left;
+}
+.work-list2{
+    width:45%;
+    
+    float: right; 
+ }
+.footer-nav{
+    width:100%;
+    background-color: black;
+   text-align: center;
+   padding:15px 0; 
+
+}
+
+.footer-nav  a{
+color:white;
+text-decoration: none;
+font-size:14px;
+
+
+    }
+
+    .footer-nav ul li a:hover{
+color:red;
+        
+            }
+            .footer-nav p{
+                color:white;
+                padding:10px 0;
+            }mehedihasanshuvo
